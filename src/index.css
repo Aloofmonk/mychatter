@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+   scroll-behavior: smooth;
+   font-family: 'Roboto Flex', sans-serif;
+   background-color: #efefef;
+}
+
+::-webkit-scrollbar {
+   width: 3px;
+}
+
+::-webkit-scrollbar-track {
+   background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+   background: #ba40aa;
+}
+
+::-webkit-scrollbar-thumb:hover {
+   background: #555;
+}
+
+.flex-container{
+   margin-bottom: 120px;
+   /* padding-top: 100px; */
+   /* height: 100vh; */
+}
+
+.why-container{
+   margin-bottom: 150px;
+}
+
+.contact-container{
+   margin: 150px;
+}
+
+.img-hero{
+   width: 600px;
+   /* padding-top: -50px; */
+}
