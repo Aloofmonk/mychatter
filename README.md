@@ -5,7 +5,7 @@ Chatter is a multi-functional platform designed for text-based content, catering
 </p>
 
 <h2 align='center'>
-<a href='https://chattermd.vercel.app/' > Demo</a>
+<a href='https://mychatter.vercel.app/' >Link</a>
 </h2>
 
 <h2 style="border-bottom: 1px solid gray;">Table of Contents</h2>
