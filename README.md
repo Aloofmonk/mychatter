@@ -5,7 +5,7 @@ Chatter is a multi-functional platform designed for text-based content, catering
 </p>
 
 <h2 align='center'>
-<a href='https://chattermd.vercel.app/' > Demo</a>
+<a href='https://mychatter.vercel.app/' >Link</a>
 </h2>
 
 <h2 style="border-bottom: 1px solid gray;">Table of Contents</h2>
@@ -22,10 +22,6 @@ Chatter is a multi-functional platform designed for text-based content, catering
 </ul>
 
 <h1 id='overview'>Overview</h1>
-<img src='https://firebasestorage.googleapis.com/v0/b/chatter-be02c.appspot.com/o/chatterImages%2Fdarkmode.png?alt=media&token=2e42bd64-e18c-4386-b63d-3859de25ef4a' /> <br/> <br />
-<img src='https://firebasestorage.googleapis.com/v0/b/chatter-be02c.appspot.com/o/chatterImages%2Flight2.png?alt=media&token=f3e5676b-5938-4471-acf8-264334da3699' /> <br/> <br />
-<img src='https://firebasestorage.googleapis.com/v0/b/chatter-be02c.appspot.com/o/chatterImages%2Fwrite.png?alt=media&token=1749f663-3262-4f23-9198-3422030924b1' /> <br/> <br />
-
 <h1 id='features'>Features</h1>
 <ol>
     <li>
