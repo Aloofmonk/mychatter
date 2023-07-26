@@ -9,11 +9,11 @@ import { ScrollToTop } from './components/modules';
 function App() {
    return (
       <Suspense fallback={<Loader />}>
-         
-            <Routes />
-            <ToastContainer />
+         <Provider>
+            <Routes />?
+            {/* <ToastContainer /> */}
             <ScrollToTop />
-         
+         </Provider>
       </Suspense>
    );
 }
