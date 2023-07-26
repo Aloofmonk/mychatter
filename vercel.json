@@ -1,9 +1,7 @@
-
-
 {
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/(?!_next|api|favicon.ico|robots.txt).*",
       "destination": "/App.tsx"
     }
   ]
