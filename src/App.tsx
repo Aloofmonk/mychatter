@@ -11,8 +11,8 @@ function App() {
       <Suspense fallback={<Loader />}>
          <Provider>
             <Routes />?
-            {/* <ToastContainer /> */}
-            <ScrollToTop />
+            <ToastContainer />
+            {/* <ScrollToTop /> */}
          </Provider>
       </Suspense>
    );
