@@ -9,7 +9,7 @@ export const Loader = (): React.JSX.Element => {
         ${theme === 'lightMode' ? 'bg-white-50' : theme === 'darkMode' && 'bg-gray-800'}
         `}
       >
-         <PuffLoader color={` #ba40aa`} size={100} />
+         <PuffLoader color={`black`} size={500} />
       </div>
    );
 };
